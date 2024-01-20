@@ -1,5 +1,5 @@
 # Hugo-Static-Site
 
-https://kmykhailov.com/
+https://kmykhailov.com
 
-https://www.kmykhailov.com/
+https://www.kmykhailov.com
