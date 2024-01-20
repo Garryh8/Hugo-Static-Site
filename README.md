@@ -1,4 +1,4 @@
-# hugo-static-site
+# Hugo-Static-Site
 
 https://kmykhailov.com/
 
