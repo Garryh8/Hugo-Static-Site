@@ -1,5 +1,5 @@
 # hugo-static-site
 
-https://mihaylov.tk
+https://kmykhailov.com/
 
-https://jenkins.mihaylov.tk
+https://www.kmykhailov.com/
